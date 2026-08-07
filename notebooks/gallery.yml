@@ -70,7 +70,7 @@
       repository: https://github.com/echostack-org/echopype-examples/blob/main/notebooks/single_transect_data_organization.ipynb
       notebook: single_transect_data_organization.ipynb
       summary: Single transect data organization for creating interoperable machine learning datasets for echogram classification tasks.
-      image: images/gallery/11_single_transect.png
+      image: images/gallery/11_single_transect_data_organization.png
 
 - section: Community showcase
   items: []
