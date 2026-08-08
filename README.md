@@ -1,9 +1,10 @@
 # echopype-examples
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5618177.svg)](https://doi.org/10.5281/zenodo.5618177)
+[![Zenodo Badge](https://img.shields.io/badge/DOI-10.5281/zenodo.5618177-blue)](https://doi.org/10.5281/zenodo.5618177)
 [![Jupyter Book](https://img.shields.io/badge/Jupyter%20Book-view%20examples-blue?logo=jupyter)](https://echopype-examples.readthedocs.io/)
 [![Documentation Status](https://readthedocs.org/projects/echopype-examples/badge/?version=latest)](https://echopype-examples.readthedocs.io/en/latest/?badge=latest)
-[![license](https://img.shields.io/badge/license-Apache--2.0-green)](LICENSE)
+[![GitHub License](https://img.shields.io/github/license/OSOceanAcoustics/echopype-examples)](https://raw.githubusercontent.com/OSOceanAcoustics/echopype-examples/main/LICENSE)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OSOceanAcoustics/echopype-examples/main?labpath=notebooks/index.ipynb)
 
 This repository hosts demonstration examples for [Echopype](https://echopype.readthedocs.io/en/stable/), an open-source Python library that enables scalable and interoperable water column sonar data processing.
 
