@@ -22,3 +22,4 @@ dependencies:
   - pip:
     - git+https://github.com/echostack-org/echopype.git@main
     - git+https://github.com/echostack-org/echoregions.git@main
+    - onc

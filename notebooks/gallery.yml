@@ -79,5 +79,12 @@
       summary: Single transect data organization for creating interoperable machine learning datasets for echogram classification tasks.
       image: images/gallery/single_transect_data_organization.png
 
+    - name: Download and Process ONC AZFP Data
+      website: onc_azfp_download_process.html
+      repository: https://github.com/echostack-org/echopype-examples/blob/main/notebooks/onc_azfp_download_process.ipynb
+      notebook: onc_azfp_download_process.ipynb
+      summary: Download raw AZFP data from Ocean Networks Canada, calibrate it with Echopype, convert range to depth, and compute depth-gridded MVBS.
+      image: images/gallery/onc_azfp_download_process.png
+
 - section: Community showcase
   items: []

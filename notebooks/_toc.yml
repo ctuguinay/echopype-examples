@@ -19,6 +19,7 @@ parts:
       - file: glider_AZFP
       - file: resample_to_geometry
       - file: single_transect_data_organization
+      - file: onc_azfp_download_process
 
   - caption: Community showcase
     numbered: False
